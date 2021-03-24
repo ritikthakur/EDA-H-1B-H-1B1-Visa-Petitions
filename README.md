@@ -16,11 +16,11 @@ Throughout the analysis, I will attempt to answer the following questions:
  
 ![Rplot](https://user-images.githubusercontent.com/51287188/112316805-755cc680-8cd1-11eb-8acc-e0fc527d822b.png)
 
- Technology related professions are the most in demnad occupations.
+Cognizant Technology Solutions US Corp leads by a large margin and submitted over 20000 applications last year.
 
 ![Rplot01](https://user-images.githubusercontent.com/51287188/112316853-80175b80-8cd1-11eb-97f1-31094bff7d95.png)
 
-Cognizant Technology Solutions US Corp leads by a large margin and submitted over 20000 applications last year.
+ Technology related professions are the most in demnad occupations.
 
 ![Rplot02](https://user-images.githubusercontent.com/51287188/112316862-81e11f00-8cd1-11eb-9326-c221ec3de9e2.png)
 

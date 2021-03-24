@@ -20,11 +20,11 @@ Cognizant Technology Solutions US Corp leads by a large margin and submitted ove
 
 ![Rplot01](https://user-images.githubusercontent.com/51287188/112316853-80175b80-8cd1-11eb-97f1-31094bff7d95.png)
 
- Technology related professions are the most in demnad occupations.
+Technology related professions are the most in demnad occupations.
 
 ![Rplot02](https://user-images.githubusercontent.com/51287188/112316862-81e11f00-8cd1-11eb-9326-c221ec3de9e2.png)
 
- Senior System Analysts, Manager , System Analyst are in huge demand at Cogniaznt. Delloite is interested in Senior Consultants, Manager and Consultants.
+Senior System Analysts, Manager , System Analyst are in huge demand at Cogniaznt. Delloite is interested in Senior Consultants, Manager and Consultants.
 
 ![Rplot04](https://user-images.githubusercontent.com/51287188/112316867-83124c00-8cd1-11eb-818e-e778e40af3ae.png)
 
@@ -36,12 +36,12 @@ Physicians, Surgeons and Health and Medical Mangers enjoy the highest Prevailing
 
 ![Rplot06](https://user-images.githubusercontent.com/51287188/112316875-84437900-8cd1-11eb-9e72-4f6816bece57.png)
 
-Looking at the Job Title and Employer, consultants/ Managers hired by Deloitte enjoy the highest average prevailing wage, Software Engineers at Microsoft arre paid way more than similar roles offered at different companies.
+Looking at the Job Title and Employer, consultants/ Managers hired by Deloitte enjoy the highest average prevailing wage, Software Engineers at Microsoft are paid way more than similar roles offered at different companies.
 
 ![Rplot07](https://user-images.githubusercontent.com/51287188/112316886-84dc0f80-8cd1-11eb-9cfe-a08d333461a3.png)
 
-Max. median wagw is provided by Facebook Inc., Min. median wage are observed to be of Tata Consultancy and INFOSYS Ltd.
-It's observed that J.P. Morgan Chase and Co. & Google LLC has one outliers each exceeding 250K USD Prevsiling Wage.
+Max. median wage is provided by Facebook Inc., Min. median wage are observed to be of Tata Consultancy and INFOSYS Ltd.
+It's observed that J.P. Morgan Chase and Co. & Google LLC has one outlier each exceeding 250K USD Prevsiling Wage.
 
 ![Rplot08](https://user-images.githubusercontent.com/51287188/112316888-8574a600-8cd1-11eb-8259-a5b81fdd4887.png)
 

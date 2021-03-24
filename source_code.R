@@ -8,7 +8,7 @@ library(stringr)
 # The H-1B visa category allows for "dual intent" where the foreign national will be coming to work in a professional position temporarily while also intending to immigrate to the United States.
 # The H1B1 visa applicant, however, has to demonstrate that he/she does not intend to immigrate to the United States.
 
-# Uur analysis is primarily focused on H1B and H1B1 Visa Applicants, so removing E3 Australian applicants
+# Our analysis is primarily focused on H1B and H1B1 Visa Applicants, so removing E3 Australian applicants
 Visa <- filter(H_1B_H_1B1_E_3_FY2020_Q3, VISA_CLASS != "E-3 Australian") 
 
 ### Throughout the analysis, I will attempt to answer the following questions:
@@ -123,7 +123,7 @@ ggplot(aes(x = reorder(JOB_TITLE, mean), y=mean, fill=EMPLOYER_NAME), data = vis
         plot.title = element_text(size = 9)) +
   ggtitle('Top Job Titles and Average Wages for H-1B/H-1B1 Visa Application 2019-20')
 
-# Looking at he Job Title and Employer, consultants/ Managers hired by Deloitte enjoy the highest average prevailing wage, Software Engineers at Microsoft arre paid way more than similar roles offered at different companies.
+# Looking at the Job Title and Employer, consultants/ Managers hired by Deloitte enjoy the highest average prevailing wage, Software Engineers at Microsoft are paid way more than similar roles offered at different companies.
 
 top_employer_df <- filter(visa, EMPLOYER_NAME %in% visa_by_employer[['EMPLOYER_NAME']])
 ggplot(aes(x = EMPLOYER_NAME, y = PREVAILING_WAGE), data = top_employer_df) +
@@ -134,7 +134,7 @@ ggplot(aes(x = EMPLOYER_NAME, y = PREVAILING_WAGE), data = top_employer_df) +
   ggtitle('Wage by Top 20 Employers')
 by(top_employer_df$PREVAILING_WAGE, top_employer_df$EMPLOYER_NAME, summary)
 
-# Max. median wagw is provided by Facebook Inc., Min. median wage are observed to be of Tata Consultancy and INFOSYS Ltd.
+# Max. median wage is provided by Facebook Inc., Min. median wage are observed to be of Tata Consultancy and INFOSYS Ltd.
 # It's observed that J.P. Morgan Chase and Co. & Google LLC has one outliers each exceeding 250K USD Prevsiling Wage.
 
 ### Which states cities apply the most H-1B/H-1B1 Visas?

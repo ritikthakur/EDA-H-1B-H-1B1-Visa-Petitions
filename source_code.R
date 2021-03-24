@@ -1,6 +1,3 @@
-# Title : "Exploring 2019-20 Q3 H-1B/H-1B1 Visa Petitions"
-# The Dataset is obtained from Office of Foreign Labor Certification (OFLC) (https://www.foreignlaborcert.doleta.gov) Discloure Data for "H_1B_H_1B1_E_3_FY2020_Q3.xlsx"
-
 # Packages used
 library(dplyr)
 library(ggplot2)
@@ -173,4 +170,3 @@ ggplot(aes(x = reorder(CITY, count), y = count), data = visa_by_city) +
 # NY City takes the lead by a large margin in the number of H-1B Visa applications.
 
 ### THE END
-
